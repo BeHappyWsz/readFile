@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+	<value>
+		<year>2018</year>
+		<month>1</month>
+		<day>2</day>
+	</value>
+	<value>
+		<year>2018</year>
+		<month>1</month>
+		<day>3</day>
+	</value>
+</test>
